@@ -6,4 +6,4 @@ This script will download the audio of every song in a YouTube playlist and conv
 Please let me know if there are any bugs.
 
 
-This version is heavily inspired by [bgracio](https://github.com/bgracio)([fork](https://github.com/bgracio/yt-playlist)).
+This version is based on [bgracio's fork](https://github.com/bgracio/yt-playlist).
